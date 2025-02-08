@@ -5,7 +5,7 @@ I am Tenry, a passionate software developer.
 ### Repositories
 
 - **Gamedev**
-  - (C++) [libluna](https://github.com/tenry92/libluna) - Cross-platform game engine
+  - (C++) [libluna](https://github.com/tenry92/libluna) - Cross-platform multimedia framework for game development
   - (Unity) [demo-action-rpg](https://github.com/tenry92/demo-action-rpg) - Creating a simple action RPG for reference
 - **Web**
   - [flare-ui](https://github.com/tenry92/flare-ui) + [flare-ui-themes](https://github.com/tenry92/flare-ui-themes) - Widget toolkit using HTML custom elements
