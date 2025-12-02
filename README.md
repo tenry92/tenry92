@@ -4,18 +4,18 @@ I am Tenry, a passionate software developer.
 
 ### Repositories
 
-- **Gamedev**
-  - (C++) [libluna](https://github.com/tenry92/libluna) - Cross-platform multimedia framework for game development
+- 🎮 **Gamedev**
+  - ⭐ (C++) [libluna](https://github.com/tenry92/libluna) - Cross-platform multimedia framework for game development
   - (Unity) [demo-action-rpg](https://github.com/tenry92/demo-action-rpg) - Creating a simple action RPG for reference
-- **Web**
-  - [flare-ui](https://github.com/tenry92/flare-ui) + [flare-ui-themes](https://github.com/tenry92/flare-ui-themes) - Widget toolkit using HTML custom elements
-  - (JavaScript) [obscure-id](https://github.com/tenry92/obscure-id) - Obscure numeric IDs by converting them to unique alphanumeric characters
+- 🌐 **Web**
+  - ⭐ [flare-ui](https://github.com/tenry92/flare-ui) + [flare-ui-themes](https://github.com/tenry92/flare-ui-themes) - Widget toolkit using HTML custom elements
+  - ⭐ (JavaScript) [obscure-id](https://github.com/tenry92/obscure-id) - Obscure numeric IDs by converting them to unique alphanumeric characters
   - [webmod](https://github.com/tenry92/webmod) - Experimental tracker music player (for files like MOD and XM), completely written in TypeScript
-- **Other**
+- 🔷 **Other**
   - [wiki10](https://github.com/tenry92/wiki10) - Static wiki generator
   - [class.lua](https://github.com/tenry92/class.lua) - A simple Lua script allowing to write "classes"
   - [sbk-decomp](https://github.com/tenry92/sbk-decomp) - My humble attempt to decompile N64's Snowboard Kids
-- **Unmaintained**
+- 🗑️ **Unmaintained**
   - (TypeScript) [typed-event-emitter](https://github.com/tenry92/typed-event-emitter)
   - (TypeScript) [orm-js](https://github.com/tenry92/orm-js) + [orm-js-sqlite](https://github.com/tenry92/orm-js-sqlite) - Map decorated TypeScript classes to database schema and simplify creating databases and using them
   - (TypeScript) [graphql-decorators](https://github.com/tenry92/graphql-decorators) + [graphql-decorators-mongo](https://github.com/tenry92/graphql-decorators-mongo) - Use TypeScript decorators for creating GraphQL types
@@ -24,15 +24,17 @@ I am Tenry, a passionate software developer.
 ### Skills
 
 - **Gamedev**
-  - C, C++
+  - C, C++ (since 2008)
+  - 🌱 Rust (since 2025)
   - Unity, C#
   - OpenGL, GLSL
   - CMake
   - Lua
+  - Blender
 - **Web**
-  - HTML, CSS
-  - JavaScript, TypeScript
-  - Vue.js
+  - HTML, CSS (since 2006)
+  - JavaScript, TypeScript (since 2014)
+  - Vue.js  
   - GraphQL
 
 <!--
